@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7sM/giphy.gif" width="800">
-</div>
 
 <h1 align="center">👋 Hi, I'm <strong>Adithya Ram S</strong></h1>
 
@@ -113,10 +110,8 @@ Brand, outreach, engagement.
 
 # 📊 GitHub Analytics
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adk157&show_icons=true&theme=radical" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Adk157&theme=radical" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adk-157&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=<GITHUB_USERNAME>&theme=radical" />
 </div>
 
 ---
