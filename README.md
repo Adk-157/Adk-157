@@ -1,12 +1,140 @@
-- 👋 Hi, I’m @Adk-157
-- 👀 I’m interested in electronics
-- 🌱 I’m currently learning ECE from IIITS
-- 💞️ I’m looking to collaborate on ELectronics and Electrical Projects
-- 📫 How to reach me adithya.r23@iiits.in/6381426353/9042906142
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I get work done quick
+<div align="center">
+  <img src="https://i.imgur.com/BoW6pOO.gif" width="800">
+</div>
 
-<!---
-Adk-157/Adk-157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👋 Hi, I'm <strong>Adithya Ram S</strong></h1>
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;VLSI+%28Mixed-Signal%29+Research;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
+  
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adk157&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Adk157?style=for-the-badge&color=ff69b4" />
+  <a href="https://www.linkedin.com/in/adithya-ram-s-514a6528a">
+    <img src="https://img.shields.io/badge/LinkedIn-Adithya%20Ram-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+# ⚙️ About Me
+I'm a **pre-final year B.Tech (Honours)** student at **IIIT Sri City**, building systems where **hardware, data and intelligence** meet.
+
+I work in:
+- ⚡ **Embedded Systems**
+- 🌐 **IoT + Wireless Telemetry**
+- 🧠 **Cyber-Physical Systems (CPS)**
+- 🔬 **VLSI (Mixed-Signal DAC Quantization + Circuit Fidelity)**
+- 🎧 **Pattern Recognition (UrbanSound8K)**
+
+I build **real systems** — not just simulations.
+
+---
+
+# 🚀 Tech Stack
+
+### 🛠 Microcontrollers & Embedded
+![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008000?style=flat)
+
+### 🔌 Sensors & Communication
+![IMU](https://img.shields.io/badge/IMU-grey?style=flat)
+![GPS](https://img.shields.io/badge/GPS-blue?style=flat)
+![ESP--NOW](https://img.shields.io/badge/ESP--NOW-purple?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
+
+### 🔧 Hardware Tools
+![LTSpice](https://img.shields.io/badge/LTSpice-maroon?style=flat)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red?style=flat&logo=xilinx)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![Verilog](https://img.shields.io/badge/Verilog-grey?style=flat)
+
+---
+
+# 🔬 Current Research Work
+
+## 🧪 1) **Patent-Linked IoT Smart E-Cycle**
+- ESP32 embedded platform  
+- IMU + GPS fusion  
+- Firebase + real-time visualisation  
+- Low-power architecture  
+- Edge computations & reliability checks  
+- V2V testing with ESP-NOW  
+
+---
+
+## ⚡ 2) **SafeRHD 2.0 — Real-Time Hazard Detection**
+- Embedded sensing for skid-risk detection  
+- Low-speed data capture (ethics clearance ongoing)  
+- ML + telemetry pipeline  
+- Full CPS workflow
+
+---
+
+## 🔥 3) **VLSI Research — DAC Quantization & Quantum Fidelity**
+- LTSpice **Monte Carlo** circuit-level DAC modeling  
+- Hybrid **Qiskit + analytical** system-level fidelity simulation  
+- Circuit fidelity: **99.95%**  
+- System fidelity saturation: **98.8%**  
+- Preparing figure: `quantization_vs_fidelity.png`  
+- Verifying waveform dumps + DAC error propagation  
+
+---
+
+# 🎧 Pattern Recognition Project — UrbanSound8K
+### *(Your Role: Data Loading, Augmentation, CNN Baseline)*  
+- Built complete audio preprocessing pipeline  
+- Custom CNN model  
+- Comparative study: SVM, KNN, MobileNetV2 TL  
+- Robust augmentation engine  
+
+---
+
+# 🏆 Leadership
+
+## 🚦 **Lead — NexSync (Smart Mobility Club)**
+Driving embedded + IoT development for campus mobility systems.
+
+## 📣 **Marketing Co-Lead — SDC IIITS (2024–25)**
+Brand, outreach, engagement.
+
+---
+
+# 📊 GitHub Analytics
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adk157&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adk157&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+- Real-time embedded firmware  
+- Edge ML for CPS  
+- Mixed-signal reliability analysis  
+- Data-driven mobility systems  
+
+---
+
+# 📫 Connect With Me
+📩 **Email:** your-email  
+🔗 **LinkedIn:** Already linked above  
+
+---
+
+# ⚡ Fun Fact  
+If it has **signals, sensors, or data**, I’ll probably build something with it 😎
+
