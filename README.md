@@ -130,8 +130,8 @@ Brand, outreach, engagement.
 ---
 
 # 📫 Connect With Me
-📩 **Email:** your-email  
-🔗 **LinkedIn:** Already linked above  
+📩 **Email:** adithya.r23@iiits.in  
+🔗 **LinkedIn:** www.linkedin.com/in/adithya-ram-s-514a6528a 
 
 ---
 
