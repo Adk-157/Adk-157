@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adk157&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Adk157?style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/github/followers/Adk-157?style=for-the-badge&color=ff69b4" />
   <a href="https://www.linkedin.com/in/adithya-ram-s-514a6528a">
     <img src="https://img.shields.io/badge/LinkedIn-Adithya%20Ram-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -90,7 +90,7 @@ I build **real systems** — not just simulations.
 ---
 
 # 🎧 Pattern Recognition Project — UrbanSound8K
-### *(Your Role: Data Loading, Augmentation, CNN Baseline)*  
+### *(My Role: Data Loading, Augmentation, CNN Baseline)*  
 - Built complete audio preprocessing pipeline  
 - Custom CNN model  
 - Comparative study: SVM, KNN, MobileNetV2 TL  
