@@ -41,10 +41,15 @@ I build **real systems** — not just simulations.
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008000?style=flat)
 
 ### 🔌 Sensors & Communication
+![LoRa](https://img.shields.io/badge/LoRa-1E90FF?style=flat&logo=semtech)
 ![IMU](https://img.shields.io/badge/IMU-grey?style=flat)
 ![GPS](https://img.shields.io/badge/GPS-blue?style=flat)
 ![ESP--NOW](https://img.shields.io/badge/ESP--NOW-purple?style=flat)
+![BLE](https://img.shields.io/badge/Bluetooth%20Low%20Energy-0082FC?style=flat&logo=bluetooth)
+![WiFi](https://img.shields.io/badge/WiFi-black?style=flat&logo=wifi)
+![IoT Sensors](https://img.shields.io/badge/Sensor%20Stack-Various-green?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
+
 
 ### 🔧 Hardware Tools
 ![LTSpice](https://img.shields.io/badge/LTSpice-maroon?style=flat)
