@@ -37,8 +37,12 @@ I build **real systems** — not just simulations.
 
 ### 🛠 Microcontrollers & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif)
+![8051](https://img.shields.io/badge/8051_Microcontroller-grey?style=flat)
+![PIC](https://img.shields.io/badge/PIC_MCU-blue?style=flat&logo=microchip)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008000?style=flat)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=flat&logo=platformio)
+
 
 ### 🔌 Sensors & Communication
 ![LoRa](https://img.shields.io/badge/LoRa-1E90FF?style=flat&logo=semtech)
