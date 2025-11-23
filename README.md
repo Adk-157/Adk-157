@@ -128,7 +128,7 @@ Brand, outreach, engagement.
 # 🎯 Currently Exploring
 - Real-time embedded firmware  
 - Edge ML for CPS  
-- Mixed-signal reliability analysis  
+- VLSI Desing and Quantum Computing  
 - Data-driven mobility systems  
 
 ---
