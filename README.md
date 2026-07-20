@@ -1,9 +1,8 @@
-
 <h1 align="center">👋 Hi, I'm <strong>Adithya Ram S</strong></h1>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;VLSI+%28Mixed-Signal%29+Research;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;VLSI+%28Mixed-Signal%29+Research;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City+%26+IIT+Madras;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
   
 </div>
 
@@ -39,6 +38,7 @@ I build **real systems** — not just simulations.
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif)
 ![8051](https://img.shields.io/badge/8051_Microcontroller-grey?style=flat)
 ![PIC](https://img.shields.io/badge/PIC_MCU-blue?style=flat&logo=microchip)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=flat&logo=platformio)
@@ -65,6 +65,7 @@ I build **real systems** — not just simulations.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
 ![Verilog](https://img.shields.io/badge/Verilog-grey?style=flat)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-grey?style=flat)
 
 ---
 
@@ -77,18 +78,26 @@ I build **real systems** — not just simulations.
 - Low-power architecture  
 - Edge computations & reliability checks  
 - V2V testing with ESP-NOW  
+- Provisional patent filed
 
 ---
 
-## ⚡ 2) **SafeRHD 2.0 — Real-Time Hazard Detection**
-- Embedded sensing for skid-risk detection  
-- Low-speed data capture (ethics clearance ongoing)  
-- ML + telemetry pipeline  
-- Full CPS workflow
+## ⚡ 2) **SKRAID — Skid Risk Assessment in Indian Driving Conditions**
+- Multithreaded acquisition pipeline: Raspberry Pi 4, IMU, GPS, camera, mounted on a two-wheeler  
+- ~31 driving sessions collected  
+- R_skid risk model combining IMU, GPS, visual, and environmental features  
+- Currently: model retraining, on-device inference latency benchmarking, and paper writing (targeting IEEE INDICON / Springer ICCIDS)
 
 ---
 
-## 🔥 3) **VLSI Research — DAC Quantization & Quantum Fidelity**
+## 🧬 3) **Optical Biosensing & Plasmonics — IIT Madras**
+- Research stint at IIT Madras's Photonics & Biosensors Lab under Dr. Shivananju B.N.  
+- Graphene-based sensing, optical biosensors, plasmonics  
+- Doppler-based optical wave sensing
+
+---
+
+## 🔥 4) **VLSI Research — DAC Quantization & Quantum Fidelity**
 - LTSpice **Monte Carlo** circuit-level DAC modeling  
 - Hybrid **Qiskit + analytical** system-level fidelity simulation  
 - Circuit fidelity: **99.95%**  
@@ -128,7 +137,7 @@ Brand, outreach, engagement.
 # 🎯 Currently Exploring
 - Real-time embedded firmware  
 - Edge ML for CPS  
-- VLSI Desing and Quantum Computing  
+- Photonics and optical biosensing
 - Data-driven mobility systems  
 
 ---
@@ -140,5 +149,4 @@ Brand, outreach, engagement.
 ---
 
 # ⚡ Fun Fact  
-If it has **signals, sensors, or data**, I’ll probably build something with it 😎
-
+If it has **signals, sensors, or data**, I'll probably build something with it 😎
