@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;FPGA+%7C+Digital+VLSI+Design;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City+%26+IIT+Madras;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;FPGA+%7C+Digital+VLSI+Design;Pattern+Recognition+%7C+Machine+Learning;Research+Intern+%40+IIT+Madras;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
   
 </div>
 
