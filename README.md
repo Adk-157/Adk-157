@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;VLSI+%28Mixed-Signal%29+Research;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City+%26+IIT+Madras;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+CPS+Builder;FPGA+%7C+Digital+VLSI+Design;Pattern+Recognition+%7C+Machine+Learning;Honours+Research+Intern+%40+IIIT+Sri+City+%26+IIT+Madras;Lead+%7C+NexSync+Smart+Mobility+Club" alt="Typing Animation" />
   
 </div>
 
@@ -25,7 +25,7 @@ I work in:
 - ⚡ **Embedded Systems**
 - 🌐 **IoT + Wireless Telemetry**
 - 🧠 **Cyber-Physical Systems (CPS)**
-- 🔬 **VLSI (Mixed-Signal DAC Quantization + Circuit Fidelity)**
+- 🔧 **FPGA / Digital VLSI Design (Verilog, Cadence Virtuoso & Genus)**
 - 🎧 **Pattern Recognition (UrbanSound8K)**
 
 I build **real systems** — not just simulations.
@@ -55,17 +55,19 @@ I build **real systems** — not just simulations.
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
 
 
-### 🔧 Hardware Tools
-![LTSpice](https://img.shields.io/badge/LTSpice-maroon?style=flat)
+### 🔧 FPGA / VLSI Tools
+![Verilog](https://img.shields.io/badge/Verilog-grey?style=flat)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-grey?style=flat)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red?style=flat&logo=xilinx)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-0072CE?style=flat)
+![Cadence Genus](https://img.shields.io/badge/Cadence-Genus-0072CE?style=flat)
+![LTSpice](https://img.shields.io/badge/LTSpice-maroon?style=flat)
 
 ### 💻 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![Verilog](https://img.shields.io/badge/Verilog-grey?style=flat)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-grey?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 
 ---
 
@@ -84,9 +86,9 @@ I build **real systems** — not just simulations.
 
 ## ⚡ 2) **SKRAID — Skid Risk Assessment in Indian Driving Conditions**
 - Multithreaded acquisition pipeline: Raspberry Pi 4, IMU, GPS, camera, mounted on a two-wheeler  
-- ~31 driving sessions collected  
-- R_skid risk model combining IMU, GPS, visual, and environmental features  
-- Currently: model retraining, on-device inference latency benchmarking, and paper writing (targeting IEEE INDICON / Springer ICCIDS)
+- Vision–inertial fusion producing a continuous per-window risk score  
+- GPS-tagged hazard mapping, edge-latency profiling, and honest generalisation analysis  
+- Paper drafted, targeting IEEE INDICON / Springer ICCIDS
 
 ---
 
@@ -97,13 +99,10 @@ I build **real systems** — not just simulations.
 
 ---
 
-## 🔥 4) **VLSI Research — DAC Quantization & Quantum Fidelity**
-- LTSpice **Monte Carlo** circuit-level DAC modeling  
-- Hybrid **Qiskit + analytical** system-level fidelity simulation  
-- Circuit fidelity: **99.95%**  
-- System fidelity saturation: **98.8%**  
-- Preparing figure: `quantization_vs_fidelity.png`  
-- Verifying waveform dumps + DAC error propagation  
+## 🔧 4) **FPGA / Digital VLSI Design**
+- Verilog RTL design and verification, deployed and tested on real FPGA boards  
+- Digital design flow experience in Cadence Virtuoso and Genus (synthesis)  
+- Applied in the FPGA Hackathon siren-detection accelerator (Zynq-7020)
 
 ---
 
@@ -137,7 +136,7 @@ Brand, outreach, engagement.
 # 🎯 Currently Exploring
 - Real-time embedded firmware  
 - Edge ML for CPS  
-- Photonics and optical biosensing
+- FPGA-based hardware acceleration  
 - Data-driven mobility systems  
 
 ---
