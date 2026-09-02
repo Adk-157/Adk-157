@@ -26,6 +26,7 @@ I work in:
 - 🌐 **IoT + Wireless Telemetry**
 - 🧠 **Cyber-Physical Systems (CPS)**
 - 🔧 **FPGA / Digital VLSI Design (Verilog, Cadence Virtuoso & Genus)**
+- 🌱 **Optical Sensing (Solar-Induced Fluorescence-based Plant Health Monitoring)**
 - 🎧 **Pattern Recognition (UrbanSound8K)**
 
 I build **real systems** — not just simulations.
@@ -92,10 +93,11 @@ I build **real systems** — not just simulations.
 
 ---
 
-## 🧬 3) **Optical Biosensing & Plasmonics — IIT Madras**
-- Research stint at IIT Madras's Photonics & Biosensors Lab under Dr. Shivananju B.N.  
-- Graphene-based sensing, optical biosensors, plasmonics  
-- Doppler-based optical wave sensing
+## 🌱 3) **SIF-Based Plant Health Sensing — IIT Madras**
+- Research internship at IIT Madras's Photonics & Biosensors Lab (Jun–Jul 2026)  
+- Built a low-cost active chlorophyll fluorescence spectroscopy system as a proxy for solar-induced fluorescence (SIF)-based plant health monitoring  
+- Ran a comparative multi-stressor study with quantified stress-response signatures and parallel control validation; authored a conference-style paper draft  
+- Proposed a Raspberry Pi NoIR camera-based low-cost spectrometer as an alternative to commercial instrumentation
 
 ---
 
@@ -138,6 +140,7 @@ Brand, outreach, engagement.
 - Edge ML for CPS  
 - FPGA-based hardware acceleration  
 - Data-driven mobility systems  
+- Low-cost optical sensing for plant/environmental monitoring
 
 ---
 
